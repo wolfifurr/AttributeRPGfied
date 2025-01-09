@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/fb930071-6ac5-4a64-9167-03df54576cca)
 
 ## How command work?
-#/arpg
+# /arpg
 
 /arpg exp/levels/points add/get <Player> - adding and getting exp/levels/points to player
 
