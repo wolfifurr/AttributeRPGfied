@@ -6,10 +6,10 @@
 ## How command work?
 # /arpg
 
-/arpg exp/levels/points add/get <Player> - adding and getting exp/levels/points to player
+/arpg exp/levels/points add/get 'Player' - adding and getting exp/levels/points to player
 
 /arpg multiplier - multiplying amount of exp that you get from walking/breaking/attacking/taking damage
 
-##Why scale is only by these buttons on top left?
+## Why scale is only by these buttons on top left?
 
 Because not everyone wants to be small or big.
