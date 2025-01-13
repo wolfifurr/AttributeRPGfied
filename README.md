@@ -1,7 +1,8 @@
 ### AttributeRPGfied
 
 ## What does this numbers mean?
-![image](https://github.com/user-attachments/assets/fb930071-6ac5-4a64-9167-03df54576cca)
+![image psd](https://github.com/user-attachments/assets/c3d899de-3658-4ef3-aac0-a7e5b5ab46bc)
+
 
 ## How command work?
 # /arpg
