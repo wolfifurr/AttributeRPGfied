@@ -14,6 +14,14 @@
 /arpg stat - setting stats to value. Different stats have different default value, so for example to set health, you need to add or remove needed value from 20, or attack, you need to add or remove from 1. All default value will be lower.
 
 default values:
+- Health - 300
+- Attack - 90
+- Movement - 100
+- Mining - 100
+- Resistance - 0
+
+Below 1.0.14
+default values:
 - Health - 20
 - Attack - 1
 - Movement - 0.1
