@@ -2,6 +2,8 @@
 
 ## What does this numbers mean?
 ![image psd](https://github.com/user-attachments/assets/c3d899de-3658-4ef3-aac0-a7e5b5ab46bc)
+# New version is redisigned but all stat values were moved to i button under levels in same order without pictures.
+![image](https://github.com/user-attachments/assets/9383c077-0cf7-4883-b378-b48e7ea80543)
 
 
 ## How command work?
